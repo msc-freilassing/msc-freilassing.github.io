@@ -2,16 +2,16 @@
   url: "/"
   side: left
 
-- title: Unser Club
-  url: "/unser-club/"
-  side: left
-
 - title: News
   url: "/news/"
   side: left
   dropdown:
   - title: "News Archiv"
     url: "/news/archiv/"
+
+- title: Unser Club
+  url: "/unser-club/"
+  side: left
 
 - title: Termine
   url: "/termine/"
@@ -24,7 +24,7 @@
   - title: "Termine 2016"
     url: "/termine/2016/"
 
-- title: "Rallye"
+- title: Rallye
   url: "/rallye/"
   side: left
   dropdown:
@@ -34,41 +34,34 @@
     url: "/rallye/beifahrer/"
   - title: "Voralpenrallye"
     url: "/rallye/voralpen"
-  - title: "Schottersprint 2017"
-    url: "/rallye/sprint/2017/"
-  - title: "Schottersprint 2016"
-    url: "/rallye/sprint/2016/"
+  - title: "Schottersprint"
+    url: "/rallye/sprint/"
 
-- title: "Automobilturnier"
+- title: Automobilturnier
   url: "/turnier/"
   side: left
   dropdown:
   - title: "Unsere Fahrer"
     url: "/turnier/fahrer/"
-  - title: "Gaulauf 2017"
-    url: "/turnier/gaulauf/2017/"
-  - title: "Gaulauf 2016"
-    url: "/design/header-image-color/"
 
-- title: "Kart"
+- title: Kart
   url: "/kart/"
   side: left
-  dropdown:
-  - title: "Nikolaus-Kartrennen 2017"
-    url: "/kart/2017/"
-  - title: "Nikolaus-Kartrennen 2016"
-    url: "/kart/2016/"
 
-- title: "Links"
+- title: Bilder
+  url: "/bilder/"
+  side: left
+
+- title: Links
   url: "/links/"
   side: left
 
 
 
-- title: "Suche"
+- title: Suche
   url: "/search/"
   side: right
 
-- title: "Kontakt"
+- title: Kontakt
   url: "/contact/"
   side: right
