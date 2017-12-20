@@ -13,6 +13,16 @@
   - title: "News Archiv"
     url: "/news/archiv/"
 
+- title: Termine
+  url: "/termine/"
+  side: left
+  dropdown:
+  - title: "Termine 2018"
+    url: "/termine/2018/"
+  - title: "Termine 2017"
+    url: "/termine/2017/"
+  - title: "Termine 2016"
+    url: "/termine/2016/"
 
 - title: "Rallye"
   url: "/rallye/"
@@ -48,6 +58,12 @@
     url: "/kart/2017/"
   - title: "Nikolaus-Kartrennen 2016"
     url: "/kart/2016/"
+
+- title: "Links"
+  url: "/links/"
+  side: left
+
+
 
 - title: "Suche"
   url: "/search/"

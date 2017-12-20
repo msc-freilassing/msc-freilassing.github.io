@@ -1,12 +1,28 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Kontakt"
+meta_title: "Kontakt aufnehmen"
+subheadline: ""
+teaser: ""
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+## Anschrift:
+
+Franz Auer
+Stegreuth 15
+83317 Teisendorf
+
+Tel: 0177 - 743 80 09
+
+e-mail: [info@msc-freilassing.de][1]
 
 
- [1]: http://www.wufoo.com/
+
+## Bankverbindung
+
+IBAN: DE71 7109 0000 0002 6069 92
+BIC: GENODEF1BGL
+Volksbank Raiffeisenbank Obb S&uuml; e.G.
+
+
+ [1]: mailto:info@msc-freilassing.de 
