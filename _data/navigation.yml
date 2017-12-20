@@ -2,74 +2,57 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Unser Club
+  url: "/unser-club/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: News
+  url: "/news/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "News Archiv"
+    url: "/news/archiv/"
+
+
+- title: "Rallye"
+  url: "/rallye/"
+  side: left
+  dropdown:
+  - title: "Unsere Fahrer"
+    url: "/rallye/fahrer/"
+  - title: "Unsere Beifahrer"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Voralpenrallye"
+    url: "/rallye/voralpen"
+  - title: "Schottersprint 2017"
+    url: "/rallye/sprint/2017/"
+  - title: "Schottersprint 2016"
+    url: "/rallye/sprint/2016/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Automobilturnier"
+  url: "/turnier/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "Unsere Fahrer"
+    url: "/turnier/fahrer/"
+  - title: "Gaulauf 2017"
+    url: "/turnier/gaulauf/2017/"
+  - title: "Gaulauf 2016"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: "Kart"
+  url: "/kart/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "Nikolaus-Kartrennen 2017"
+    url: "/kart/2017/"
+  - title: "Nikolaus-Kartrennen 2016"
+    url: "/kart/2016/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
+- title: "Suche"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Kontakt"
   url: "/contact/"
   side: right
