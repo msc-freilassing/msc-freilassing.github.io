@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Aktuelles"
   url: '/news/'
-  image: widget-1-302x182.jpg
+  image: 
   text: 'Hier finden Sie aktuelles &uuml;ber unseren Club, Berichte von Veranstaltungen, Infos zu Terminen und sonstige Neuigkeiten'
 widget2:
   title: "Termine"
   url: '/termine/'
-  image: widget-termine-303x182.jpg
+  image: 
   text: 'Alle Termine und Veranstaltungshinweise'
 widget3:
   title: "Bilder"
   url: '/bilder/'
-  image: widget-bilder-303x182.jpg
+  image: 
   text: 'Bilder von unseren Veranstaltungen, Clubmitgliedern in Aktion und aus dem Vereinsleben'
 #
 # Use the call for action to show a button on the frontpage
