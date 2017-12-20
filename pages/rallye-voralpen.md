@@ -9,7 +9,7 @@ permalink: "/rallye/voralpen/"
 ---
 [hier](http://www.voralpenrallye.de) geht es zur Hauptseite der Voralpenrallye.
 
-# Meldungen zur Voralpenrallye auf msc-freilassing.de:
+### Meldungen zur Voralpenrallye auf msc-freilassing.de:
 <ul>
     {% for post in site.categories.Voralpenrallye %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
