@@ -2,7 +2,7 @@
 layout: page
 show_meta: false
 title: "Voralpenrallye"
-subheadline: "Alles zur beliebtesten Rallye im Voralpenland"
+subheadline: "Die beliebteste Rallye 35 im Voralpenland"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/rallye/voralpen/"
