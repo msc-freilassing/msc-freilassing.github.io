@@ -9,7 +9,7 @@ permalink: "/rallye/"
 ---
 Seiten:
 <ul>
-    {% for post in site.categories.rallye %}
+    {% for post in site.categories.Rallye %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
@@ -17,4 +17,4 @@ Seiten:
 Newsmeldungen:
 {: .t60 }
 
-{% include list-posts tag='Sprint' %}
+{% include list-posts tag='Rallye' %}
