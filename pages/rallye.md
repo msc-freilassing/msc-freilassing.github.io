@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Rallyesport im MSC Freilassing"
+title: "Rallye"
 subheadline: "Alle Einträge zum Thema Rallye beim MSC Freilassing"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
