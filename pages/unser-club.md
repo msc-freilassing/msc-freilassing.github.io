@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "MSC-Freilassing - Unser Club"
+title: "Unser Club"
 subheadline: "Der MSC Freilassing stellt sich vor"
 teaser: ""
 header:
