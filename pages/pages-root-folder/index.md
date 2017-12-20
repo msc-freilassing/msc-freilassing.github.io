@@ -16,7 +16,7 @@ widget2:
   title: "Termine"
   url: '/termine/'
   image: 
-  text: 'Alle Termine und Veranstaltungshinweise'
+  text: 'Alle Termine und Veranstaltungshinweise zu Veranstaltungen des MSC Freilassing und andere Motorsportereignisse'
 widget3:
   title: "Bilder"
   url: '/bilder/'
