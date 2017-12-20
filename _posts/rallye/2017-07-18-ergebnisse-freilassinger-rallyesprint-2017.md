@@ -2,7 +2,7 @@
 layout: page
 title:  "Ergebnisse Rallyesprint 2017"
 subheadline:  "22. ADAC Rallyesprint des MSC Freilassing"
-teaser: "Happy End f&uuml;r Florian Auer nach kurzfristigem Fahrzeugwechsel"
+teaser: "Happy End für Florian Auer nach kurzfristigem Fahrzeugwechsel"
 categories:
     - Rallye
 tags:
