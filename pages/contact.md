@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Kontakt"
+title: "MSC-Freilassing - Kontakt"
 meta_title: "Kontakt aufnehmen"
 subheadline: ""
 teaser: ""
