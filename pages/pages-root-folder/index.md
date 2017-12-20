@@ -9,19 +9,19 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "Aktuelles"
-  url: '{{ site.url }}{{ site.baseurl }}/news/'
+  url: '/news/'
   image: widget-1-302x182.jpg
   text: 'Hier finden Sie aktuelles &uuml;ber unseren Club, Berichte von Veranstaltungen, Infos zu Terminen und sonstige Neuigkeiten'
 widget2:
   title: "Termine"
-  url: '{{ site.url }}{{ site.baseurl }}/termine/'
+  url: '/termine/'
   image: widget-termine-303x182.jpg
   text: 'Alle Termine und Veranstaltungshinweise'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  title: "Bilder"
+  url: '/bilder/'
+  image: widget-bilder-303x182.jpg
+  text: 'Bilder von unseren Veranstaltungen, Clubmitgliedern in Aktion und aus dem Vereinsleben'
 #
 # Use the call for action to show a button on the frontpage
 #
