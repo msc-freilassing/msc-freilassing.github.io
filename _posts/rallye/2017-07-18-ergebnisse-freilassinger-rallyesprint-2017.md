@@ -10,7 +10,7 @@ tags:
     - Sprint
     - Freilassing
 header:
-    image: flo_auer_sprint_edit.jpg
+    image: /2017/Rally/Sprint/header_sprint_2017_fauer.jpg
     pattern: pattern_concrete.jpg
     caption: Weitere Bilder vom Rallyesprint 2017
     caption_url: /bilder/2017/rallyesprint/
