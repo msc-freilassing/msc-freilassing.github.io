@@ -5,6 +5,7 @@ subheadline:  "22. ADAC Rallyesprint des MSC Freilassing"
 teaser: "Happy End für Florian Auer nach kurzfristigem Fahrzeugwechsel"
 categories:
     - Rallye
+    - Sprint
 tags:
     - Rallye
     - Sprint
