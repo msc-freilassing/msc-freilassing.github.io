@@ -8,7 +8,7 @@ header:
 permalink: "/termine/"
 ---
 
-<div id="kronolithCal"></div><script src="https://horde.autogassner.de/services/ajax.php/kronolith/embed?token=lmyfce-2279hmaGPDfxtjA1&amp;calendar=internal_LSwfoPLK1iOqKhYdYH4DYA1&amp;container=kronolithCal&amp;view=month" type="text/javascript"></script>
+<div id="calendar"></div>
 
 <ul>
     {% for post in site.categories.Turnier %}
