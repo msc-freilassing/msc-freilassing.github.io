@@ -65,7 +65,7 @@ format: frontpage
             {% for post in site.posts limit:1 %}
 	    {% if post.category == "Termine" %}
 	    // do nothing
-	    {% elif %}
+	    {% else if %}
             {% if post.image.homepage %}
             <p>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
@@ -90,7 +90,7 @@ format: frontpage
             {% for post in site.posts limit:1 %}
 	    {% if post.category == "Termine" %}
 	    // do nothing
-	    {% elif %}
+	    {% else if %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>
