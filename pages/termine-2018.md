@@ -5,7 +5,7 @@ title: "Termine 2018"
 subheadline: "Der Terminkalender des MSC Freilassing"
 header:
    image_fullwidth: "header_unsplash_8.jpg"
-permalink: "/termine/2018"
+permalink: "/termine/2018/"
 ---
 
 <ul>
