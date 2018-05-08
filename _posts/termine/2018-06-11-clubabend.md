@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout: page
 title:  "11.06.2018 - Clubabend"
 date: "2018-06-11"

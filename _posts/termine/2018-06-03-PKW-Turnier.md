@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout: page
 title:  "03.06.2018 - 3. Freilassinger PKW-Turnier"
 date: "2018-06-03"

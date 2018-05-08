@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout: page
 title:  "30.06.2018 - Aufbau Schottersprint"
 date: "2018-06-30"

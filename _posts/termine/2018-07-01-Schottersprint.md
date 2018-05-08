@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout: page
 title:  "01.07.2018 - Schottersprint MSC Freilassing"
 date: "2018-07-01"
