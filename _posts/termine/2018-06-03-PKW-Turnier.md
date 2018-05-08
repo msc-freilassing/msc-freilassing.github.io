@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "03.06.2018 - 3. Freilassinger PKW-Turnier"
+date: "2018-06-03"
 subheadline:  "3. ADAC PKW-Turnier des MSC Freilassing"
 teaser: "Doppelveranstaltung; Läufe zur Bayerischen Meisterschaft"
 categories:

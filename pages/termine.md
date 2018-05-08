@@ -9,7 +9,8 @@ permalink: "/termine/"
 ---
 
 <ul>
-    {% for post in site.categories.Termine-2018 %}
+    {% assign sorted = (site.categories.Termine-2018 | sort: 'date') | reverse % }
+    {% for post in sorted %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
